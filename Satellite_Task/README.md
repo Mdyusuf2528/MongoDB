@@ -1,6 +1,6 @@
 # Prerequisite:
 
-I have a satellite link.
+I have a ISS satellite link.
 
 It provides position information for each and every second.
 
